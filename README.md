@@ -1,2 +1,2 @@
 
-Simple tcp chat server and client cli.
+Simple async. tcp chat server and client
